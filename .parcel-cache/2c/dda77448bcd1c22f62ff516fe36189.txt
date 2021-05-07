@@ -1,0 +1,16 @@
+15
+63C:\Users\Administrator\Desktop\dom-1\dist\index.23420cfa.js.map132648468985903224 0
+41C:\Users\Administrator\Desktop\dom-1\dist132648475997952584 1
+59C:\Users\Administrator\Desktop\dom-1\dist\index.23420cfa.js132648468985863330 0
+40C:\Users\Administrator\Desktop\dom-1\src132648471094946324 1
+48C:\Users\Administrator\Desktop\dom-1\src\main.js132648470857270000 0
+51C:\Users\Administrator\Desktop\dom-1\src\.gitignore132648471408886112 0
+47C:\Users\Administrator\Desktop\dom-1\src\dom.js132648475997159624 0
+51C:\Users\Administrator\Desktop\dom-1\src\index.html132648470836070002 0
+59C:\Users\Administrator\Desktop\dom-1\dist\index.9b0ae0e5.js132648475997902726 0
+63C:\Users\Administrator\Desktop\dom-1\dist\index.9b0ae0e5.js.map132648475997942613 0
+59C:\Users\Administrator\Desktop\dom-1\dist\index.bd78eeec.js132648475997912692 0
+63C:\Users\Administrator\Desktop\dom-1\dist\index.bd78eeec.js.map132648475997942613 0
+59C:\Users\Administrator\Desktop\dom-1\dist\index.e9515478.js132648468985873315 0
+63C:\Users\Administrator\Desktop\dom-1\dist\index.e9515478.js.map132648468985913192 0
+52C:\Users\Administrator\Desktop\dom-1\dist\index.html132648475997902726 0

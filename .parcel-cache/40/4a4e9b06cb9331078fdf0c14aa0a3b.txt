@@ -1,0 +1,12 @@
+11
+63C:\Users\Administrator\Desktop\dom-1\dist\index.23420cfa.js.map132648468985903224 0
+41C:\Users\Administrator\Desktop\dom-1\dist132648468985913192 1
+59C:\Users\Administrator\Desktop\dom-1\dist\index.23420cfa.js132648468985863330 0
+40C:\Users\Administrator\Desktop\dom-1\src132648471094946324 1
+48C:\Users\Administrator\Desktop\dom-1\src\main.js132648470857270000 0
+51C:\Users\Administrator\Desktop\dom-1\src\.gitignore132648471408886112 0
+47C:\Users\Administrator\Desktop\dom-1\src\dom.js132648470813180000 0
+59C:\Users\Administrator\Desktop\dom-1\dist\index.e9515478.js132648468985873315 0
+51C:\Users\Administrator\Desktop\dom-1\src\index.html132648470836070002 0
+63C:\Users\Administrator\Desktop\dom-1\dist\index.e9515478.js.map132648468985913192 0
+52C:\Users\Administrator\Desktop\dom-1\dist\index.html132648468985863330 0

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style data-parcel-key="cdd1baffece2cf6c5cd3938a844e31ad">
+        .red {
+            background: red;
+        }
+    </style>
+</head>
+
+<body>
+    示例
+    <div id="empty">
+        <div id="e1"></div>
+        <div id="e2"></div>
+        <div id="e3"></div>
+    </div>
+    <div id="test">test</div>
+    <script src="613b40cd4d1b2faea4acf916ee4af749"></script>
+    <script src="5ab0d911be27f832b081dcdb7ddcd802"></script>
+</body>
+
+</html>
